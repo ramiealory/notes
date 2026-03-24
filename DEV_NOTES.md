@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Tidied up project structure
 - Pinned dependency versions for reproducibility
+
+## 2026-03-24
+- Documented config options
