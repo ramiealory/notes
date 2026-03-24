@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-24
 - Documented config options
+
+## 2026-03-24
+- Investigated performance bottleneck, noted findings
+- Added type hints to helper functions
